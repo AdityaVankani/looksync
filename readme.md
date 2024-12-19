@@ -41,7 +41,7 @@ LookSync is an advanced product recommendation system that combines the power of
 4. **Interface**: **Streamlit** powers a smooth and intuitive interface for effortless uploads and result display.  
 
 ---
-## **Dataset used**:
+## **Dataset used**
 1.**Fashion Product Images Dataset**:
 It consist of images of several different products( around 44k images ).
 Link:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset.
