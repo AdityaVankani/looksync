@@ -48,4 +48,8 @@ LookSync is an advanced product recommendation system that combines the power of
 1. Clone the repository:  
    ```bash
    git clone https://github.com/AdityaVankani/LookSync.git  
-   cd LookSync  
+   cd LookSync
+2. run extract_feature and extract_feature1
+3. Run final.py
+   ```bash
+   streamlit run final.py
