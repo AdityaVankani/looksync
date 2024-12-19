@@ -42,11 +42,11 @@ LookSync is an advanced product recommendation system that combines the power of
 
 ---
 ## **Dataset used**:
-1.Fashion Product Images Dataset
+1.**Fashion Product Images Dataset**:
 It consist of images of several different products( around 44k images ).
 Link:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset.
 
-2.Bollywood celeb localized face dataset
+2.**Bollywood celeb localized face dataset**:
 This dataset contains the localized face of 100 Bollywood celebrities. every class has samples between 80 to 150 of size 64 X 64 pixels. samples contain wild conditions such as different orientations, illuminations, age transitions, etc
 Link:https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset
 
